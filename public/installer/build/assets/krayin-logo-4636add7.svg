@@ -1,0 +1,10 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- NexusCRM Icon - Installer version -->
+    <rect x="2" y="10" width="8" height="8" fill="#0E90D9" rx="1"/>
+    <rect x="12" y="10" width="8" height="8" fill="#263238" rx="1"/>
+    <rect x="2" y="20" width="8" height="8" fill="#263238" rx="1"/>
+    <rect x="12" y="20" width="8" height="8" fill="#0E90D9" rx="1"/>
+    
+    <!-- NexusCRM Text -->
+    <text x="28" y="27" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#263238">NexusCRM</text>
+</svg>
